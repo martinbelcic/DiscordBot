@@ -3,4 +3,3 @@ client_id = 650705780974026762
 https://discordapp.com/oauth2/authorize?&client_id=650705780974026762&scope=bot&permissions=8
 https://discordapp.com/api/oauth2/authorize?client_id=650705780974026762&permissions=3155968&scope=bot
 
-BOT_TOKEN = NjUwNzA1NzgwOTc0MDI2NzYy.XePP7A.mOh8IuQwfTagv7tKylBB_F1cN4A
